@@ -1,6 +1,6 @@
 # Projeto Assistente Virtual STT e TTS
 
-Este repositório contém dois projetos em Python: **Speech-to-Text (STT)** e **Text-to-Speech (TTS)**, desenvolvidos para criar um assistente interativo que reconhece comandos de voz e converte texto em fala. O projeto STT permite reconhecer comandos de voz para realizar pesquisas no Google, YouTube, Google Shopping e Wikipedia, enquanto o TTS converte texto em áudio em cinco idiomas (Português, Espanhol, Inglês, Francês e Italiano).
+Este repositório contém dois projetos em Python: **Speech-to-Text (STT)** e **Text-to-Speech (TTS)**, desenvolvidos para criar um assistente interativo que reconhece comandos de voz e converte texto em fala. O projeto STT permite reconhecer comandos de voz para realizar pesquisas no Google, YouTube, Google Shopping e Wikipedia, enquanto o TTS converte texto em áudio em cinco idiomas (Português, Espanhol, Inglês, Francês e Italiano). Esse é um desafio de projeto para o bootcamp ML Training da Baires Dev na plataforma DIO em parceria com a Baires Dev.
 
 ## Funcionalidades
 
