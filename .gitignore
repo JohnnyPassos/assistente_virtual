@@ -1,0 +1,13 @@
+# Ambientes virtuais
+venv/
+.venv/
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Arquivos temporários
+*.mp3
+*.log
+# Arquivos do PyCharm
+.idea/
